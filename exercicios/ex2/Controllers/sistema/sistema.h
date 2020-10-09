@@ -1,6 +1,6 @@
-#include "mola.h"
-#include "massa.h"
-#include "amortecedor.h"
+#include "../../Models/mola/mola.h"
+#include "../../Models/massa/massa.h"
+#include "../../Models/amortecedor/amortecedor.h"
 #include <iostream>
 #include <memory>
 

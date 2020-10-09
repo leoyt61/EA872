@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import subprocess
 
-subprocess.run(['g++', '-omain', 'main.cpp', 'sistema.cpp', 'mola.cpp', 'massa.cpp', 'amortecedor.cpp'])
+subprocess.run(['g++', '-omain', 'App/main.cpp', 'Controllers/sistema/sistema.cpp', 'Models/mola/mola.cpp', 'Models/massa/massa.cpp', 'Models/amortecedor/amortecedor.cpp'])
 result = subprocess.run(['./main'], stdout=subprocess.PIPE)
 out = str(result.stdout).split("'")[1].split(";")
 
@@ -38,7 +38,7 @@ ax.set_title("Sistema MMA")  # Add a title to the axes.
 ax.legend()  # Add a legend.
 
 fig.tight_layout()  # otherwise the right y-label is slightly clipped
-fig.savefig("chart1.png")
+fig.savefig("Charts/chart1.png")
 plt.show()
 
 # Note that even in the OO-style, we use `.pyplot.figure` to create the figure.
@@ -52,5 +52,5 @@ ax.set_title("Sistema MMA")  # Add a title to the axes.
 ax.legend()  # Add a legend.
 
 fig.tight_layout()  # otherwise the right y-label is slightly clipped
-fig.savefig("chart2.png")
+fig.savefig("Charts/chart2.png")
 plt.show()
