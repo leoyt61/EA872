@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leoyt/github/EA872/exercicios/ex3/Include/Models/textura/textura.hpp
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+
+/home/leoyt/github/EA872/exercicios/ex3/Include/Views/view.hpp
+iostream
+-
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+../Models/textura/textura.hpp
+/home/leoyt/github/EA872/exercicios/ex3/Include/Models/textura/textura.hpp
+memory
+-
+
+/home/leoyt/github/EA872/exercicios/ex3/Views/view.cpp
+../Include/Views/view.hpp
+/home/leoyt/github/EA872/exercicios/ex3/Include/Views/view.hpp
+iostream
+-
+

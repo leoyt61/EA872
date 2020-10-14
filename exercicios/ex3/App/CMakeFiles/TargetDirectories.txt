@@ -1,0 +1,10 @@
+/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/textura.dir
+/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/view.dir
+/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/amortecedor.dir
+/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/massa.dir
+/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/rebuild_cache.dir
+/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/MMA.dir
+/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/edit_cache.dir
+/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/sistema.dir
+/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/mola.dir
+/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/teclado.dir

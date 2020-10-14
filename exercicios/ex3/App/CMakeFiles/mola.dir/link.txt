@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmola.a  CMakeFiles/mola.dir/Models/mola/mola.cpp.o
+/usr/bin/ranlib libmola.a

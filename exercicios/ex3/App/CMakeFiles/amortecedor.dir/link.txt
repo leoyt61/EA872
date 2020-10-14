@@ -1,0 +1,2 @@
+/usr/bin/ar qc libamortecedor.a  CMakeFiles/amortecedor.dir/Models/amortecedor/amortecedor.cpp.o
+/usr/bin/ranlib libamortecedor.a

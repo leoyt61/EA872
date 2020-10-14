@@ -1,4 +1,4 @@
-#include "teclado.hpp"
+#include "../../Include/Models/teclado/teclado.hpp"
 #include <iostream>
 
 

@@ -1,4 +1,4 @@
-#include "../Controllers/sistema/sistema.hpp"
+#include "../Include/Controllers/sistema/sistema.hpp"
 #include <iostream>
 #include <memory>
 
@@ -31,8 +31,8 @@ int main() {
         int stateSDL = sistema->setSDLInit();
         if (stateSDL > 0) return 1;
 
-        char const *img1 = "./Assets/capi.png";
-        char const *img2 = "./Assets/park.jpeg";
+        char const *img1 = "../Assets/capi.png";
+        char const *img2 = "../Assets/park.jpeg";
 
         int stateWindow = view->setWindow(); // Criando uma janela
         int stateRenderer = view->setRenderer(); // Inicializando o renderizador

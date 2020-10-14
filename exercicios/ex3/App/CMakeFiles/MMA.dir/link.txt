@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/MMA.dir/main.cpp.o  -o MMA libview.a libamortecedor.a libmassa.a libmola.a libteclado.a libtextura.a libsistema.a libview.a -lSDL2 -lSDL2_image 

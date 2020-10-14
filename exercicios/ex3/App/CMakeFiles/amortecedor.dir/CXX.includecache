@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leoyt/github/EA872/exercicios/ex3/Include/Models/amortecedor/amortecedor.hpp
+
+/home/leoyt/github/EA872/exercicios/ex3/Models/amortecedor/amortecedor.cpp
+../../Include/Models/amortecedor/amortecedor.hpp
+/home/leoyt/github/EA872/exercicios/ex3/Include/Models/amortecedor/amortecedor.hpp
+iostream
+-
+

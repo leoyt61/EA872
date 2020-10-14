@@ -1,0 +1,34 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/leoyt/github/EA872/exercicios/ex3/App/main.cpp" "/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/MMA.dir/main.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../Include/Views"
+  "../Include/Models/amortecedor"
+  "../Include/Models/massa"
+  "../Include/Models/mola"
+  "../Include/Models/teclado"
+  "../Include/Models/textura"
+  "../Include/Controllers"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/view.dir/DependInfo.cmake"
+  "/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/amortecedor.dir/DependInfo.cmake"
+  "/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/massa.dir/DependInfo.cmake"
+  "/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/mola.dir/DependInfo.cmake"
+  "/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/teclado.dir/DependInfo.cmake"
+  "/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/textura.dir/DependInfo.cmake"
+  "/home/leoyt/github/EA872/exercicios/ex3/App/CMakeFiles/sistema.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

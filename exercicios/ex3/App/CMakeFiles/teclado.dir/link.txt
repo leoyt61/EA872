@@ -1,0 +1,2 @@
+/usr/bin/ar qc libteclado.a  CMakeFiles/teclado.dir/Models/teclado/teclado.cpp.o
+/usr/bin/ranlib libteclado.a

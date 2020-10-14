@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leoyt/github/EA872/exercicios/ex3/Include/Models/mola/mola.hpp
+
+/home/leoyt/github/EA872/exercicios/ex3/Models/mola/mola.cpp
+../../Include/Models/mola/mola.hpp
+/home/leoyt/github/EA872/exercicios/ex3/Include/Models/mola/mola.hpp
+iostream
+-
+

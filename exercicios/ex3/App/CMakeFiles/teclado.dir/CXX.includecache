@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leoyt/github/EA872/exercicios/ex3/Include/Models/teclado/teclado.hpp
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+
+/home/leoyt/github/EA872/exercicios/ex3/Models/teclado/teclado.cpp
+../../Include/Models/teclado/teclado.hpp
+/home/leoyt/github/EA872/exercicios/ex3/Include/Models/teclado/teclado.hpp
+iostream
+-
+

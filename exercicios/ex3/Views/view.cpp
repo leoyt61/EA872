@@ -1,4 +1,4 @@
-#include "view.hpp"
+#include "../Include/Views/view.hpp"
 #include <iostream>
 
 

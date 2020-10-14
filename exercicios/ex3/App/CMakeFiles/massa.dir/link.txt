@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmassa.a  CMakeFiles/massa.dir/Models/massa/massa.cpp.o
+/usr/bin/ranlib libmassa.a
