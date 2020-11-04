@@ -1,4 +1,4 @@
-#include "../../Include/Models/amortecedor/amortecedor.hpp"
+#include "../../../Include/Models/amortecedor/amortecedor.hpp"
 #include <iostream>
 
 

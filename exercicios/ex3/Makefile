@@ -1,4 +1,4 @@
-SOURCES = App/main.cpp Controllers/sistema/sistema.cpp Models/massa/massa.cpp Models/mola/mola.cpp Models/amortecedor/amortecedor.cpp Models/textura/textura.cpp Models/teclado/teclado.cpp Views/view.cpp -lSDL2 -lSDL2_image
+SOURCES = App/main.cpp src/Controllers/sistema/sistema.cpp src/Models/massa/massa.cpp src/Models/mola/mola.cpp src/Models/amortecedor/amortecedor.cpp src/Models/textura/textura.cpp src/Models/teclado/teclado.cpp src/Views/view.cpp -lSDL2 -lSDL2_image
 
 main:
 	g++ -g -Wall -o main $(SOURCES)
