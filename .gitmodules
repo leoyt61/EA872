@@ -1,6 +1,3 @@
 [submodule "cpp"]
 	path = cpp
 	url = https://github.com/tiagoft/cpp.git
-[submodule "exercicios/cpp"]
-	path = exercicios/cpp
-	url = https://github.com/tiagoft/cpp.git
