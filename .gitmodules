@@ -1,6 +1,3 @@
-[submodule "trabalho"]
-	path = trabalho
-	url = https://github.com/Gustavosbl/trabalho.git
 [submodule "cpp"]
 	path = cpp
 	url = https://github.com/tiagoft/cpp.git
